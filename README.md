@@ -1,3 +1,8 @@
+> :warning: :warning: :warning: Deprecated! :warning: :warning: :warning: 
+>
+> We are now using Celatone for exploring smart contracts https://celatone.osmosis.zone/
+
+
 # CosmWasm Code Explorer
 
 ## Use hosted
